@@ -1,0 +1,14 @@
+button{
+	padding : 10px;
+	margin : 10px;
+	background-color: green;
+	color : white;
+	border : none;
+	font-size: 30px;
+}
+
+.important{
+	font-weight: bold;	
+	font-size: 30px;
+	color: green;
+}
